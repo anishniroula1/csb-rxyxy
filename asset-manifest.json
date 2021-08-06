@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://anishniroula1.github.io/csb-rxyxy/static/css/main.34dcb704.chunk.css",
+    "main.js": "https://anishniroula1.github.io/csb-rxyxy/static/js/main.d6507ce7.chunk.js",
+    "main.js.map": "https://anishniroula1.github.io/csb-rxyxy/static/js/main.d6507ce7.chunk.js.map",
+    "runtime-main.js": "https://anishniroula1.github.io/csb-rxyxy/static/js/runtime-main.6cfb724d.js",
+    "runtime-main.js.map": "https://anishniroula1.github.io/csb-rxyxy/static/js/runtime-main.6cfb724d.js.map",
+    "static/js/2.57a418ff.chunk.js": "https://anishniroula1.github.io/csb-rxyxy/static/js/2.57a418ff.chunk.js",
+    "static/js/2.57a418ff.chunk.js.map": "https://anishniroula1.github.io/csb-rxyxy/static/js/2.57a418ff.chunk.js.map",
+    "static/js/3.8e3811b9.chunk.js": "https://anishniroula1.github.io/csb-rxyxy/static/js/3.8e3811b9.chunk.js",
+    "static/js/3.8e3811b9.chunk.js.map": "https://anishniroula1.github.io/csb-rxyxy/static/js/3.8e3811b9.chunk.js.map",
+    "index.html": "https://anishniroula1.github.io/csb-rxyxy/index.html",
+    "static/css/main.34dcb704.chunk.css.map": "https://anishniroula1.github.io/csb-rxyxy/static/css/main.34dcb704.chunk.css.map",
+    "static/js/2.57a418ff.chunk.js.LICENSE.txt": "https://anishniroula1.github.io/csb-rxyxy/static/js/2.57a418ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cfb724d.js",
+    "static/js/2.57a418ff.chunk.js",
+    "static/css/main.34dcb704.chunk.css",
+    "static/js/main.d6507ce7.chunk.js"
+  ]
+}
